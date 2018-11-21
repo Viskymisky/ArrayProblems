@@ -1,4 +1,4 @@
-arr = [1,1,1,2]
+arr = [1,2,3,4]
 
 function printReverse() {
   var i = (arr.length - 1);
@@ -6,9 +6,4 @@ function printReverse() {
     console.log(i + ": " + arr.slice(i, i + 1));
     i--;
   }
-}
-
-function sumArray(){
-  var i = 0
-  for()
 }
